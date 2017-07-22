@@ -1,0 +1,11 @@
+*.swp
+*.o
+*.pyc
+*.graphml
+*.pkl
+*.testpackets
+*.ai
+generate_test_packets
+author.md
+fig/logo.png
+
