@@ -14,9 +14,9 @@
     - [Monitor Mode](#monitor-mode)
   - [Running SDNProbe](#running-sdnprobe)
     - [STEP 1. Show the configure file](#step-1-show-the-configure-file)
-    - [STEP 2. Generate test packets from topology file](#step-2.-generate-test-packets-from-topology-file)
-    - [STEP 3. Generate topology graph for the controller as input](#step-3.-generate-topology-graph-for-the-controller-as-input)
-    - [STEP 4. Start probing](#step-4.-start-probing)
+    - [STEP 2. Generate test packets from topology file](#step-2-generate-test-packets-from-topology-file)
+    - [STEP 3. Generate topology graph for the controller as input](#step-3-generate-topology-graph-for-the-controller-as-input)
+    - [STEP 4. Start probing](#step-4-start-probing)
     - [Mininet](#mininet)
   - [Contributors](#contributors)
 
