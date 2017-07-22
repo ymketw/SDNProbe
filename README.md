@@ -18,7 +18,7 @@
     - [STEP 3. Generate topology graph for the controller as input](#step-3-generate-topology-graph-for-the-controller-as-input)
     - [STEP 4. Start probing](#step-4-start-probing)
     - [Mininet](#mininet)
-  - [Contributors](#contributors)
+  - [Contributors (will be updated later)](#contributors)
 
 
 ## What is SDNProbe?
